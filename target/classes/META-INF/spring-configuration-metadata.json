@@ -1,0 +1,153 @@
+{
+  "groups": [
+    {
+      "name": "afognp",
+      "type": "mx.com.app.login.apiservice.config.DataSourceDB1",
+      "sourceType": "mx.com.app.login.apiservice.config.DataSourceDB1"
+    },
+    {
+      "name": "appmovil",
+      "type": "mx.com.app.login.apiservice.config.DataSourceDB2",
+      "sourceType": "mx.com.app.login.apiservice.config.DataSourceDB2"
+    },
+    {
+      "name": "buc",
+      "type": "mx.com.app.login.apiservice.config.DataSourceDB3",
+      "sourceType": "mx.com.app.login.apiservice.config.DataSourceDB3"
+    }
+  ],
+  "properties": [
+    {
+      "name": "afognp.connectiontime",
+      "type": "java.lang.Long",
+      "description": "Variable connectiontime de tipo Long.",
+      "sourceType": "mx.com.app.login.apiservice.config.DataSourceDB1"
+    },
+    {
+      "name": "afognp.driver",
+      "type": "java.lang.String",
+      "description": "Variable driver de tipo String.",
+      "sourceType": "mx.com.app.login.apiservice.config.DataSourceDB1"
+    },
+    {
+      "name": "afognp.password",
+      "type": "java.lang.String",
+      "description": "Variable password de tipo String.",
+      "sourceType": "mx.com.app.login.apiservice.config.DataSourceDB1"
+    },
+    {
+      "name": "afognp.poolsize",
+      "type": "java.lang.Integer",
+      "description": "Variable poolsize de tipo int.",
+      "sourceType": "mx.com.app.login.apiservice.config.DataSourceDB1"
+    },
+    {
+      "name": "afognp.schema",
+      "type": "java.lang.String",
+      "description": "The schema.",
+      "sourceType": "mx.com.app.login.apiservice.config.DataSourceDB1"
+    },
+    {
+      "name": "afognp.url",
+      "type": "java.lang.String",
+      "description": "Variable url de tipo String.",
+      "sourceType": "mx.com.app.login.apiservice.config.DataSourceDB1"
+    },
+    {
+      "name": "afognp.username",
+      "type": "java.lang.String",
+      "description": "The username.",
+      "sourceType": "mx.com.app.login.apiservice.config.DataSourceDB1"
+    },
+    {
+      "name": "appmovil.connectiontime",
+      "type": "java.lang.Long",
+      "description": "Variable connectiontime de tipo Long.",
+      "sourceType": "mx.com.app.login.apiservice.config.DataSourceDB2"
+    },
+    {
+      "name": "appmovil.driver",
+      "type": "java.lang.String",
+      "description": "Variable driver de tipo String.",
+      "sourceType": "mx.com.app.login.apiservice.config.DataSourceDB2"
+    },
+    {
+      "name": "appmovil.password",
+      "type": "java.lang.String",
+      "description": "Variable password de tipo String.",
+      "sourceType": "mx.com.app.login.apiservice.config.DataSourceDB2"
+    },
+    {
+      "name": "appmovil.poolsize",
+      "type": "java.lang.Integer",
+      "description": "Variable poolsize de tipo int.",
+      "sourceType": "mx.com.app.login.apiservice.config.DataSourceDB2"
+    },
+    {
+      "name": "appmovil.schema",
+      "type": "java.lang.String",
+      "description": "The schema.",
+      "sourceType": "mx.com.app.login.apiservice.config.DataSourceDB2"
+    },
+    {
+      "name": "appmovil.url",
+      "type": "java.lang.String",
+      "description": "Variable url de tipo String.",
+      "sourceType": "mx.com.app.login.apiservice.config.DataSourceDB2"
+    },
+    {
+      "name": "appmovil.username",
+      "type": "java.lang.String",
+      "description": "The username.",
+      "sourceType": "mx.com.app.login.apiservice.config.DataSourceDB2"
+    },
+    {
+      "name": "buc.connectiontime",
+      "type": "java.lang.Long",
+      "description": "Variable connectiontime de tipo Long.",
+      "sourceType": "mx.com.app.login.apiservice.config.DataSourceDB3"
+    },
+    {
+      "name": "buc.driver",
+      "type": "java.lang.String",
+      "description": "Variable driver de tipo String.",
+      "sourceType": "mx.com.app.login.apiservice.config.DataSourceDB3"
+    },
+    {
+      "name": "buc.password",
+      "type": "java.lang.String",
+      "description": "Variable password de tipo String.",
+      "sourceType": "mx.com.app.login.apiservice.config.DataSourceDB3"
+    },
+    {
+      "name": "buc.poolsize",
+      "type": "java.lang.Integer",
+      "description": "Variable poolsize de tipo int.",
+      "sourceType": "mx.com.app.login.apiservice.config.DataSourceDB3"
+    },
+    {
+      "name": "buc.schema",
+      "type": "java.lang.String",
+      "description": "The schema.",
+      "sourceType": "mx.com.app.login.apiservice.config.DataSourceDB3"
+    },
+    {
+      "name": "buc.url",
+      "type": "java.lang.String",
+      "description": "Variable url de tipo String.",
+      "sourceType": "mx.com.app.login.apiservice.config.DataSourceDB3"
+    },
+    {
+      "name": "buc.username",
+      "type": "java.lang.String",
+      "description": "The username.",
+      "sourceType": "mx.com.app.login.apiservice.config.DataSourceDB3"
+    },
+    {
+      "name": "spring.sql.init.schema-locationsocations",
+      "type": "java.lang.String",
+      "description": "A description for 'spring.sql.init.schema-locationsocations'"
+    }
+  ],
+  "hints": []
+}

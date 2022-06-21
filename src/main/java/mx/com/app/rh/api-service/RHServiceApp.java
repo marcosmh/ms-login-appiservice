@@ -12,7 +12,7 @@ import org.springframework.boot.autoconfigure.domain.EntityScan;
 @SpringBootApplication
 @EnableAutoConfiguration
 @EntityScan(basePackages = "mx.com.app.login.apiservice")
-public class MServiceApp {
+public class RHServiceApp {
 
 	/**
 	 * The main method.
@@ -20,7 +20,7 @@ public class MServiceApp {
 	 * @param args the arguments
 	 */
 	public static void main(String[] args) {
-		SpringApplication.run(MServiceApp.class, args);
+		SpringApplication.run(mx.com.app.login.apiservice.RHServiceApp.class, args);
 	}
 
 
